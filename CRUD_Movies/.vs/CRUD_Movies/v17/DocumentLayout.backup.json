@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elomd\\source\\repos\\CRUD_Movies\\",
+  "WorkspaceRootPath": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|c:\\users\\elomd\\source\\repos\\crud_movies\\crud_movies\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Migrations\\20240922163401_AddMoviesGenresTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUD_Movies\\Migrations\\20240922163401_AddMoviesGenresTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|c:\\users\\elomd\\downloads\\projects\\imdb_mvc_project\\crud_movies\\crud_movies\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|solutionrelative:crud_movies\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|c:\\users\\elomd\\source\\repos\\crud_movies\\crud_movies\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|solutionrelative:crud_movies\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|c:\\users\\elomd\\downloads\\projects\\imdb_mvc_project\\crud_movies\\crud_movies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|solutionrelative:crud_movies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|c:\\users\\elomd\\source\\repos\\crud_movies\\crud_movies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|solutionrelative:crud_movies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|c:\\users\\elomd\\downloads\\projects\\imdb_mvc_project\\crud_movies\\crud_movies\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|solutionrelative:crud_movies\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,39 +50,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240922163401_AddMoviesGenresTables.cs",
+              "DocumentMoniker": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Migrations\\20240922163401_AddMoviesGenresTables.cs",
+              "RelativeDocumentMoniker": "CRUD_Movies\\Migrations\\20240922163401_AddMoviesGenresTables.cs",
+              "ToolTip": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Migrations\\20240922163401_AddMoviesGenresTables.cs",
+              "RelativeToolTip": "CRUD_Movies\\Migrations\\20240922163401_AddMoviesGenresTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:34:01.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\elomd\\source\\repos\\CRUD_Movies\\CRUD_Movies\\Models\\Movie.cs",
+              "DocumentMoniker": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "CRUD_Movies\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\elomd\\source\\repos\\CRUD_Movies\\CRUD_Movies\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Models\\Movie.cs",
               "RelativeToolTip": "CRUD_Movies\\Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:11:40.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:11:40.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "CRUD_Movies\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Models\\Genre.cs",
+              "RelativeToolTip": "CRUD_Movies\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:10:59.886Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\elomd\\source\\repos\\CRUD_Movies\\CRUD_Movies\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "CRUD_Movies\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\elomd\\source\\repos\\CRUD_Movies\\CRUD_Movies\\Models\\Genre.cs",
-              "RelativeToolTip": "CRUD_Movies\\Models\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:10:59.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\elomd\\source\\repos\\CRUD_Movies\\CRUD_Movies\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CRUD_Movies\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\elomd\\source\\repos\\CRUD_Movies\\CRUD_Movies\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\ApplicationDbContext.cs",
               "RelativeToolTip": "CRUD_Movies\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T16:08:02.047Z",
               "EditorCaption": ""
