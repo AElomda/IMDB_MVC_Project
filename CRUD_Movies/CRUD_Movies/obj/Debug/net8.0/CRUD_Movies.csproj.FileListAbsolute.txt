@@ -135,3 +135,4 @@ C:\Users\elomd\Downloads\Projects\IMDB_MVC_Project\CRUD_Movies\CRUD_Movies\obj\D
 C:\Users\elomd\Downloads\Projects\IMDB_MVC_Project\CRUD_Movies\CRUD_Movies\obj\Debug\net8.0\CRUD_Movies.pdb
 C:\Users\elomd\Downloads\Projects\IMDB_MVC_Project\CRUD_Movies\CRUD_Movies\obj\Debug\net8.0\CRUD_Movies.genruntimeconfig.cache
 C:\Users\elomd\Downloads\Projects\IMDB_MVC_Project\CRUD_Movies\CRUD_Movies\obj\Debug\net8.0\ref\CRUD_Movies.dll
+C:\Users\elomd\Downloads\Projects\IMDB_MVC_Project\CRUD_Movies\CRUD_Movies\bin\Debug\net8.0\libman.json
