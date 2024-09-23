@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\lib\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js"
+    },
+    {
       "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.svg",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.svg"
     },
