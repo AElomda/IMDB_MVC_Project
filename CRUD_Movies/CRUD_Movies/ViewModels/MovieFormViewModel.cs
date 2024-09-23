@@ -12,6 +12,7 @@ namespace CRUD_Movies.ViewModels
         public double Rate { get; set; }
         [Required, StringLength(2500)]
         public string? Storeline { get; set; }
+        [Display(Name = "Select Poster...")]
         public byte[]? Poster { get; set; }
         [Display(Name = "Genre")]
         public byte GenreId { get; set; }
