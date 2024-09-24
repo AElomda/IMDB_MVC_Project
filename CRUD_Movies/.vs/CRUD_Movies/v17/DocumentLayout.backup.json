@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|c:\\users\\elomd\\downloads\\projects\\imdb_mvc_project\\crud_movies\\crud_movies\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|solutionrelative:crud_movies\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|c:\\users\\elomd\\downloads\\projects\\imdb_mvc_project\\crud_movies\\crud_movies\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|solutionrelative:crud_movies\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|c:\\users\\elomd\\downloads\\projects\\imdb_mvc_project\\crud_movies\\crud_movies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|solutionrelative:crud_movies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|c:\\users\\elomd\\downloads\\projects\\imdb_mvc_project\\crud_movies\\crud_movies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|solutionrelative:crud_movies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|c:\\users\\elomd\\downloads\\projects\\imdb_mvc_project\\crud_movies\\crud_movies\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229408EB-F8D4-4E12-BA7C-57D65BAFB46E}|CRUD_Movies\\CRUD_Movies.csproj|solutionrelative:crud_movies\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD_Movies\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "CRUD_Movies\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:17:43.232Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -47,27 +60,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CRUD_Movies\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CRUD_Movies\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T15:40:52.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Views\\Movies\\Create.cshtml",
               "RelativeDocumentMoniker": "CRUD_Movies\\Views\\Movies\\Create.cshtml",
               "ToolTip": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Views\\Movies\\Create.cshtml",
               "RelativeToolTip": "CRUD_Movies\\Views\\Movies\\Create.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwDoAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T19:01:49.815Z",
+              "WhenOpened": "2024-09-23T18:49:05.773Z",
               "EditorCaption": ""
             },
             {
@@ -78,7 +78,7 @@
               "RelativeDocumentMoniker": "CRUD_Movies\\Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "CRUD_Movies\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAEwC0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T18:50:45.635Z",
               "EditorCaption": ""
