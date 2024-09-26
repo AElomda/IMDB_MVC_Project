@@ -1,8 +1,68 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\elomd\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
       "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD_Movies.bundle.scp.css",
       "PackagePath": "staticwebassets\\CRUD_Movies.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\Posters\\1.jpg",
+      "PackagePath": "staticwebassets\\Posters\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\Posters\\10 - Copy.gif",
+      "PackagePath": "staticwebassets\\Posters\\10 - Copy.gif"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\Posters\\10.jpg",
+      "PackagePath": "staticwebassets\\Posters\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\Posters\\2.jpg",
+      "PackagePath": "staticwebassets\\Posters\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\Posters\\3.jpg",
+      "PackagePath": "staticwebassets\\Posters\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\Posters\\4.jpg",
+      "PackagePath": "staticwebassets\\Posters\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\Posters\\5.jpg",
+      "PackagePath": "staticwebassets\\Posters\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\Posters\\6.jpg",
+      "PackagePath": "staticwebassets\\Posters\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\Posters\\7.jpg",
+      "PackagePath": "staticwebassets\\Posters\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\Posters\\8.jpg",
+      "PackagePath": "staticwebassets\\Posters\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\Posters\\9.jpg",
+      "PackagePath": "staticwebassets\\Posters\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\bootbox.js\\bootbox.min.js",
+      "PackagePath": "staticwebassets\\bootbox.js\\bootbox.min.js"
     },
     {
       "Id": "C:\\Users\\elomd\\Downloads\\Projects\\IMDB_MVC_Project\\CRUD_Movies\\CRUD_Movies\\wwwroot\\css\\site.css",

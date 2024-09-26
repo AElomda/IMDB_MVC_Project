@@ -14,7 +14,7 @@ build_property.EnableComHosting =
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\elomd\Downloads\Projects\IMDB_MVC_Project\CRUD_Movies\CRUD_Movies
 build_property._RazorSourceGeneratorDebug = 
 
@@ -26,12 +26,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elomd/Downloads/Projects/IMDB_MVC_Project/CRUD_Movies/CRUD_Movies/Views/Movies/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+[C:/Users/elomd/Downloads/Projects/IMDB_MVC_Project/CRUD_Movies/CRUD_Movies/Views/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/elomd/Downloads/Projects/IMDB_MVC_Project/CRUD_Movies/CRUD_Movies/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elomd/Downloads/Projects/IMDB_MVC_Project/CRUD_Movies/CRUD_Movies/Views/Movies/MovieForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXE1vdmllRm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/elomd/Downloads/Projects/IMDB_MVC_Project/CRUD_Movies/CRUD_Movies/Views/Shared/Error.cshtml]
